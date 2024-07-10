@@ -1,0 +1,20 @@
+.product {
+    line-height: 32.64px;
+    letter-spacing: 0.04em;
+}
+
+.products h2 {
+    font-weight: 500;
+    line-height: 32.64px;
+    letter-spacing: 0.04em;
+}
+
+.product button {
+    margin-top: 1rem;
+    font-family: Avenir Next;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 20.49px;
+    text-align: left;
+    border-bottom: 1px solid black;
+}

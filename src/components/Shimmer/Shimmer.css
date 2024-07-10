@@ -1,0 +1,14 @@
+.shimmer-rating>* {
+    display: inline;
+    color: lightgray;
+    font-weight: 700;
+}
+
+.shimmer2 button {
+    transition: all ease-in 0.3s;
+}
+
+.shimmer2 button:hover {
+    color: white;
+    background-color: black;
+}

@@ -1,0 +1,6 @@
+.product-sizes button {
+    border: 1px solid grey;
+    border-radius: 0.25rem;
+    padding-block: 0.5rem;
+    padding-inline: 1rem;
+}

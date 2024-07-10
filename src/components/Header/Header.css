@@ -1,0 +1,15 @@
+.header {
+    background-image: url("../../assets/images/hero_img.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.header button:hover {
+    transition: all ease-in 0.3s;
+    border: 1px solid white;
+    background-color: rgba(0, 0, 0, 0.293);
+    color: white;
+    cursor: pointer;
+}

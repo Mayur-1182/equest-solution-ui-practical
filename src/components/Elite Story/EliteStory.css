@@ -1,0 +1,14 @@
+.elite-rating>* {
+    display: inline;
+    color: lightgray;
+    font-weight: 700;
+}
+
+.elite2 button {
+    transition: all ease-in 0.3s;
+}
+
+.elite2 button:hover {
+    background-color: black;
+    color: white;
+}

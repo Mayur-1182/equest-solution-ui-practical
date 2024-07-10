@@ -1,0 +1,29 @@
+.footer ul>li {
+    font-family: Avenir Next;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.footer li>h3 {
+    font-family: Avenir Next;
+    font-size: 15px;
+    font-weight: 700;
+    /* line-heigh */
+}
+
+.footer input {
+    border-bottom: 2px solid grey;
+    color: gray;
+}
+
+
+.payment-methods {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.payment-methods img {
+    width: 3rem;
+    height: 1.5rem;
+}
